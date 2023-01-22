@@ -9,7 +9,7 @@ public class Main2 {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.println("Введите арифметическую операцию6");
+        System.out.println("Введите арифметическую операцию7");
         String primer = s.nextLine();
         try {
             System.out.println(calc(primer));
